@@ -1,3 +1,10 @@
+%%
+% Md Abir Hossen
+% Graduate Research Assistant
+% South Dakota School of Mines and Technology
+% E-mail: abir.hossen@mines.sdsmt.edu
+%%
+
 clear all;
 close all;
 clc;
