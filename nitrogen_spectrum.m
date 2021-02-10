@@ -1,6 +1,11 @@
 %%
 % Nitrogen spectrum for all the samples at V4, V8 and V12 stages
 %%
+% Md Abir Hossen
+% Graduate Research Assistant
+% South Dakota School of Mines and Technology
+% E-mail: abir.hossen@mines.sdsmt.edu
+%%
 
 clear all;
 close all;
