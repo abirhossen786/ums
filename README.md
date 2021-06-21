@@ -7,3 +7,15 @@ To generate the ground-truthdata or the training data ("emission_lines_LIBS.m") 
 Shows the estimation error and std for all the HPO methods.
 # nitrogen_spectrum
 Only the N spectrum for all the soil samples at V4, V8 and V12 stages.
+
+### Citation
+@article{hossen2021total,
+  title={Total nitrogen estimation in agricultural soils via aerial multispectral imaging and LIBS},
+  author={Hossen, Md Abir and Diwakar, Prasoon K and Ragi, Shankarachary},
+  journal={Scientific Reports},
+  volume={11},
+  number={1},
+  pages={1--11},
+  year={2021},
+  publisher={Nature Publishing Group}
+}
