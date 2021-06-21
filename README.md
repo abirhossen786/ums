@@ -1,4 +1,4 @@
-# Total Nitrogen Estimation in Agricultural Soils via Aerial Multispectral Imaging and LIBS.
+# UAV-based Multispectral Sensing Solution (UMS)
 # Training-and-Hyper-parameter optimization
 Perform training on the dataset using the multispectral characteristics of the soil and crops in red, near-infrared, and green spectral bands, computedvegetation indices, and environmental variables including air temperature and relative humidity ("dataset_multispectral_features.csv") and perfromed hyper-parameter optimization to improve the prediction accuracy.
 # emission_lines_LIBS
@@ -11,7 +11,7 @@ Only the N spectrum for all the soil samples at V4, V8 and V12 stages.
 ### Citation
 @article{hossen2021total,\
   title={Total nitrogen estimation in agricultural soils via aerial multispectral imaging and LIBS},\
-  author={Hossen, Md Abir and Diwakar, Prasoon K and Ragi, Shankarachary}\
+  author={Hossen, Md Abir and Diwakar, Prasoon K and Ragi, Shankarachary},\
   journal={Scientific Reports}\
   volume={11},\
   number={1},\
